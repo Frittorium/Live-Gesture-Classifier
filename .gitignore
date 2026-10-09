@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Downloaded model (fetched by the setup step, see README)
+gesture_app/models/*.task
+
+# Local runtime config and logs
+.gesture_app/
+*.log
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
