@@ -1,4 +1,4 @@
-# Offline Gesture Recognition
+# Live Gesture Recognition
 
 A cross-platform desktop application that recognizes ten predefined hand gestures in real time from a local camera. Built with Python, PySide6, and OpenCV. Runs entirely offline: frames are processed in memory and nothing is stored or transmitted.
 
